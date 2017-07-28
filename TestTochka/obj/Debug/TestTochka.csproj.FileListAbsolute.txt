@@ -1,0 +1,12 @@
+c:\users\texpo\onedrive\documents\visual studio 2017\Projects\TestTochka\TestTochka\bin\Debug\TestTochka.exe.config
+c:\users\texpo\onedrive\documents\visual studio 2017\Projects\TestTochka\TestTochka\bin\Debug\TestTochka.exe
+c:\users\texpo\onedrive\documents\visual studio 2017\Projects\TestTochka\TestTochka\bin\Debug\TestTochka.pdb
+c:\users\texpo\onedrive\documents\visual studio 2017\Projects\TestTochka\TestTochka\bin\Debug\Hammock.ClientProfile.dll
+c:\users\texpo\onedrive\documents\visual studio 2017\Projects\TestTochka\TestTochka\bin\Debug\Newtonsoft.Json.dll
+c:\users\texpo\onedrive\documents\visual studio 2017\Projects\TestTochka\TestTochka\bin\Debug\TweetSharp.dll
+c:\users\texpo\onedrive\documents\visual studio 2017\Projects\TestTochka\TestTochka\bin\Debug\Hammock.ClientProfile.pdb
+c:\users\texpo\onedrive\documents\visual studio 2017\Projects\TestTochka\TestTochka\bin\Debug\Newtonsoft.Json.xml
+c:\users\texpo\onedrive\documents\visual studio 2017\Projects\TestTochka\TestTochka\bin\Debug\TweetSharp.pdb
+c:\users\texpo\onedrive\documents\visual studio 2017\Projects\TestTochka\TestTochka\obj\Debug\TestTochka.csprojResolveAssemblyReference.cache
+c:\users\texpo\onedrive\documents\visual studio 2017\Projects\TestTochka\TestTochka\obj\Debug\TestTochka.exe
+c:\users\texpo\onedrive\documents\visual studio 2017\Projects\TestTochka\TestTochka\obj\Debug\TestTochka.pdb
